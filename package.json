@@ -19,7 +19,7 @@
     "out"
   ],
   "dependencies": {
-    "@mapbox/node-pre-gyp": "^1.0.5",
+    "@mapbox/node-pre-gyp": "^1.0.10",
     "acorn": "^8.3.0",
     "acorn-class-fields": "^1.0.0",
     "acorn-private-class-elements": "^1.0.0",
