@@ -26,7 +26,7 @@
     "acorn-static-class-features": "^1.0.0",
     "bindings": "^1.4.0",
     "estree-walker": "^0.6.1",
-    "glob": "^7.1.3",
+    "glob": "^7.2.3",
     "graceful-fs": "^4.1.15",
     "micromatch": "^4.0.2",
     "mkdirp": "^0.5.1",
